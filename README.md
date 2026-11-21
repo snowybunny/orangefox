@@ -1,4 +1,4 @@
-# Firefox Orange Theme
+# Orangefox - Firefox Orange Theme
 
 Минималистичная оранжевая тема для Firefox: `userChrome.css` + `userContent.css`.
 Панель закладок только с иконками, а название появляется во всплывающей подсказке при наведении.
