@@ -1,0 +1,37 @@
+/*
+ ▄██████ ██████▄  ██████▄  ███    ███ ███  ███
+▒▒▒▒     ▄▄▄  ▒▒▒ ▄▄▄  ▒▒▒ ▒▒▒    ▒▒▒ ▒▒▒▄ ▒▒▒
+▀██████▄ ███  ███ ███▄▀███ ███ ██ ███  ▀██████
+     ▒▒▒ ▒▒▒  ▒▒▒ ▒▒▒  ▒▒▒ ▒▒▒ ▒▒ ▒▒▒     ▄▒▒▒
+██████▀  ███  ███  ▀████▀   ▀██▀███▀  ██████▀ 
+https://github.com/snowybunny
+color theme and bookmarks for firefox 157
+*/
+
+@charset "UTF-8";
+
+@-moz-document url-prefix("about:"), url-prefix("chrome:"), url-prefix("file:") {
+  :root {
+    --color-violet-0: rgba(255, 255, 255, 1) !important;
+    --color-violet-10: rgba(255, 194, 157, 0.92) !important;
+    --color-violet-20: rgba(255, 157, 101, 0.92) !important;
+    --color-violet-30: rgba(255, 117, 52, 0.92) !important;
+    --color-violet-40: rgba(255, 87, 25, 0.92) !important;
+    --color-violet-50: rgba(255, 66, 10, 0.92) !important;
+    --color-violet-60: rgba(255, 51, 4, 0.92) !important;
+    --color-violet-70: rgba(246, 40, 0, 0.92) !important;
+    --color-violet-80: rgba(226, 55, 15, 0.92) !important;
+    --color-violet-90: rgba(205, 57, 25, 0.92) !important;
+
+    --color-violet-desaturated-0: rgba(255, 255, 255, 1) !important;
+    --color-violet-desaturated-10: rgba(255, 194, 157, 0.92) !important;
+    --color-violet-desaturated-20: rgba(255, 157, 101, 0.92) !important;
+    --color-violet-desaturated-30: rgba(255, 117, 52, 0.92) !important;
+    --color-violet-desaturated-40: rgba(255, 87, 25, 0.92) !important;
+    --color-violet-desaturated-50: rgba(255, 66, 10, 0.92) !important;
+    --color-violet-desaturated-60: rgba(255, 51, 4, 0.92) !important;
+    --color-violet-desaturated-70: rgba(246, 40, 0, 0.92) !important;
+    --color-violet-desaturated-80: rgba(226, 55, 15, 0.92) !important;
+    --color-violet-desaturated-90: rgba(205, 57, 25, 0.92) !important;
+  }
+}
